@@ -389,7 +389,9 @@ footer {
   padding: 6px;
 
 }
-
+.four-section-title{
+  padding: 13px;
+}
 .four-section-btn {
   display: flex;
   flex-direction: column;
